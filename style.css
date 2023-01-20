@@ -145,3 +145,14 @@ body{
     font-weight: 100;
     color: var(--font-white);
 }
+h2 a,
+h3 a{
+    text-decoration: none;
+    color: var(--font-white);
+}
+
+h2 a:hover,
+h3 a:hover{
+    text-decoration:underline;
+    color: var(--font-white);
+}
